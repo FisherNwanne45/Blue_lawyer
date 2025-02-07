@@ -125,6 +125,92 @@
             </div>
 
         </div>
+        <!-- Contact Page Branch Locations with CSS Icons -->
+        <div class="branch-locations">
+            <hr>
+            <h3>Other <span class="theme_color">Locations</span></h3>
+
+            <ul class="locations-list">
+                <li><span class="flag-icon flag-icon-ca"></span> Canada</li>
+                <li><span class="flag-icon flag-icon-gb"></span> United Kingdom</li>
+                <li><span class="flag-icon flag-icon-au"></span> Australia</li>
+                <li><span class="flag-icon flag-icon-de"></span> Germany</li>
+                <li><span class="flag-icon flag-icon-fr"></span> France</li>
+                <li><span class="flag-icon flag-icon-jp"></span> Japan</li>
+                <li><span class="flag-icon flag-icon-nl"></span> Netherlands</li>
+                <li><span class="flag-icon flag-icon-ch"></span> Switzerland</li>
+                <li><span class="flag-icon flag-icon-mx"></span> Mexico</li>
+                <li><span class="flag-icon flag-icon-tr"></span> Turkey</li>
+            </ul>
+        </div>
+
+        <style>
+        .branch-locations {
+            margin-top: 20px;
+        }
+
+        .locations-list {
+            list-style: none;
+            padding: 0;
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 10px;
+        }
+
+        .locations-list li {
+            display: flex;
+            align-items: center;
+        }
+
+        .flag-icon {
+            display: inline-block;
+            width: 24px;
+            height: 16px;
+            background-size: cover;
+            margin-right: 10px;
+        }
+
+        .flag-icon-ca {
+            background-image: url('https://flagcdn.com/ca.svg');
+        }
+
+        .flag-icon-gb {
+            background-image: url('https://flagcdn.com/gb.svg');
+        }
+
+        .flag-icon-au {
+            background-image: url('https://flagcdn.com/au.svg');
+        }
+
+        .flag-icon-de {
+            background-image: url('https://flagcdn.com/de.svg');
+        }
+
+        .flag-icon-fr {
+            background-image: url('https://flagcdn.com/fr.svg');
+        }
+
+        .flag-icon-jp {
+            background-image: url('https://flagcdn.com/jp.svg');
+        }
+
+        .flag-icon-nl {
+            background-image: url('https://flagcdn.com/nl.svg');
+        }
+
+        .flag-icon-ch {
+            background-image: url('https://flagcdn.com/ch.svg');
+        }
+
+        .flag-icon-mx {
+            background-image: url('https://flagcdn.com/mx.svg');
+        }
+
+        .flag-icon-tr {
+            background-image: url('https://flagcdn.com/tr.svg');
+        }
+        </style>
+
     </div>
 </section>
 <!--End Contact Info Section-->
