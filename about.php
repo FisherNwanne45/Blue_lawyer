@@ -175,8 +175,8 @@
             <!--Image Column-->
             <div class="image-column col-md-6 col-sm-12 col-xs-12">
                 <div class="image">
-                    <img src="images/resource/about2.png" alt="About Us" />
-                    <div class="caption">Alessia Smith</div>
+                    <img src="images/resource/about2.jpg" alt="About Us" />
+                    <div class="caption">Lisa Henry</div>
                 </div>
             </div>
             <!--Content Column-->

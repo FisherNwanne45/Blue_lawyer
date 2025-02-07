@@ -18,6 +18,7 @@
     <div class="auto-container">
         <div class="row clearfix">
 
+
             <!--Sidebar Side-->
             <div class="sidebar-side col-lg-3 col-md-4 col-sm-12 col-xs-12">
                 <aside class="sidebar default-sidebar">
@@ -25,13 +26,22 @@
                     <!--Blog Category Widget-->
                     <div class="sidebar-widget sidebar-blog-category">
                         <ul class="blog-cat">
-                            <li><a href="business.php"><span class="icon flaticon-balance"></span> Business Law</a></li>
-                            <li><a href="family.php"><span class="icon flaticon-family"></span> Family Law</a></li>
+                            <li><a href="banking.php"><span class="icon flaticon-bank"></span>
+                                    International Banking and Finance Law</a></li>
+                            <li><a href="trade.php"><span class="icon flaticon-balance"></span>
+                                    International Trade Law</a></li>
+                            <li><a href="business.php"><span class="icon flaticon-write-letter"></span>
+                                    Project Finance
+                                    Law</a></li>
+                            <li><a href="wills.php"><span class="icon flaticon-home"></span> Real Estate
+                                    Law</a></li>
                             <li class="active"><a href="criminal.php"><span class="icon flaticon-jail"></span> Criminal
                                     Law</a></li>
                             <li><a href="drug.php"><span class="icon flaticon-antibiotic"></span> Drug Control Law</a>
                             </li>
-                            <li><a href="consumer.php"><span class="icon flaticon-write-letter"></span> Consumer Law</a>
+                            <li><a href="consumer.php"><span class="icon flaticon-target"></span> Bankruptcy and
+                                    Creditor Debtor Rights /
+                                    Insolvency and Reorganization Law</a>
                             </li>
                             <li><a href="insurance.php"><span class="icon flaticon-home"></span> Insurance Law</a></li>
                         </ul>
@@ -40,12 +50,12 @@
                     <!--Brochures Widget-->
                     <div class="sidebar-widget brochures-widget">
                         <div class="sidebar-title">
-                            <h2>Our <span class="theme_color">Brochures</span></h2>
+                            <h2>Our <span class="theme_color">Attorneys</span></h2>
                         </div>
                         <div class="widget-content">
                             <div class="text">Our <?php echo date("Y"); ?> law prospectus brochure for easy to read
                                 guide.</div>
-                            <a href="#" class="download">Download PDF</a>
+                            <a href="contact.php" class="download">Consultation</a>
                         </div>
                     </div>
 

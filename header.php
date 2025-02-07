@@ -1,5 +1,5 @@
-<?php 
-include "short.php" 
+<?php
+include "short.php"
 ?>
 <!DOCTYPE html>
 <html>
@@ -154,14 +154,18 @@ include "short.php"
                                             class="dropdown <?php echo in_array(basename($_SERVER['PHP_SELF']), ['criminal.php', 'drug.php', 'consumer.php', 'wills.php', 'insurance.php', 'practice.php', 'family.php', 'business.php']) ? 'current' : ''; ?>">
                                             <a href="#">Practice Areas</a>
                                             <ul>
-                                                <li><a href="practice.php">All Practices</a></li>
-                                                <li><a href="family.php">Family Law</a></li>
-                                                <li><a href="business.php">Business Law</a></li>
+                                                <li><a href="practice.php">Our Practices</a>
+                                                </li>
+                                                <li><a href="banking.php">International Banking and Finance Law</a>
+                                                </li>
+                                                <li><a href="trade.php">International Trade Law</a></li>
+                                                <li><a href="business.php">Project Finance Law</a></li>
                                                 <li><a href="wills.php">Wills and Estate Law</a></li>
                                                 <li><a href="criminal.php">Criminal Law</a></li>
                                                 <li><a href="insurance.php">Insurance Law</a></li>
                                                 <li><a href="drug.php">Drug Control Law</a></li>
-                                                <li><a href="consumer.php">Consumer Law</a></li>
+                                                <li><a href="consumer.php">Bankruptcy and Creditor Debtor Rights /
+                                                        Insolvency and Reorganization Law</a></li>
                                             </ul>
                                         </li>
                                         <li
@@ -257,14 +261,18 @@ include "short.php"
                                             <?php echo in_array(basename($_SERVER['PHP_SELF']), ['criminal.php', 'drug.php', 'consumer.php', 'wills.php', 'insurance.php', 'practice.php', 'family.php', 'business.php']) ? 'current' : ''; ?>">
                                             <a href="#">Practice Areas</a>
                                             <ul>
-                                                <li><a href="practice.php">All Practices</a></li>
-                                                <li><a href="family.php">Family Law</a></li>
-                                                <li><a href="business.php">Business Law</a></li>
-                                                <li><a href="criminal.php">Criminal Law</a></li>
+                                                <li><a href="practice.php">Our Practices</a>
+                                                </li>
+                                                <li><a href="banking.php">International Banking and Finance Law</a>
+                                                </li>
+                                                <li><a href="trade.php">International Trade Law</a></li>
+                                                <li><a href="business.php">Project Finance Law</a></li>
                                                 <li><a href="wills.php">Wills and Estate Law</a></li>
+                                                <li><a href="criminal.php">Criminal Law</a></li>
                                                 <li><a href="insurance.php">Insurance Law</a></li>
                                                 <li><a href="drug.php">Drug Control Law</a></li>
-                                                <li><a href="consumer.php">Consumer Law</a></li>
+                                                <li><a href="consumer.php">Bankruptcy and Creditor Debtor Rights /
+                                                        Insolvency and Reorganization Law</a></li>
                                             </ul>
                                         </li>
                                         <li

@@ -27,7 +27,7 @@
 
                             <div class="column col-md-6 col-sm-6 col-xs-12">
                                 <ul class="list-style-one">
-                                    <li><a href="family.php">Family Law</a></li>
+                                    <li><a href="trade.php">Intl. Trade Law</a></li>
                                     <li><a href="drug.php">Drug Law</a></li>
                                     <li><a href="insurance.php">Insurance Law</a></li>
                                     <li><a href="criminal.php">Civil Litigation Law</a></li>
@@ -35,9 +35,12 @@
                             </div>
                             <div class="column col-md-6 col-sm-6 col-xs-12">
                                 <ul class="list-style-one">
+                                    <li><a href="banking.php">Intl. Finance Law</a></li>
+
+
+                                    <li><a href="business.php">Project Finance Law</a></li>
                                     <li><a href="criminal.php">Criminal Law</a></li>
-                                    <li><a href="business.php">Business Law</a></li>
-                                    <li><a href="consumer.php">Consumer Law</a></li>
+
                                     <li><a href="wills.php">Will & Estate Law</a></li>
                                 </ul>
                             </div>

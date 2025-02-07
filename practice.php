@@ -25,9 +25,10 @@
                         <div class="overlay-box">
                             <div class="overlay-inner">
                                 <div class="content">
-                                    <div class="text">Family law is an area of the law sed that deals with family
-                                        matters & family domestic relations.</div>
-                                    <a href="family.php" class="read-more">read more</a>
+                                    <div class="text">International Banking and Finance Law is an area of the law that
+                                        issues relating
+                                        to Banking & finance disputes resolutions.</div>
+                                    <a href="banking.php" class="read-more">read more</a>
                                 </div>
                             </div>
                         </div>
@@ -35,9 +36,9 @@
                     <div class="lower-box">
                         <div class="lower-inner">
                             <div class="icon-box">
-                                <span class="icon flaticon-family"></span>
+                                <span class="icon flaticon-bank"></span>
                             </div>
-                            <h3><a href="family.php">Family Law</a></h3>
+                            <h3><a href="banking.php"> Banking and Finance Law</a></h3>
                             <a href="#" class="arrow"><span class="flaticon-right-arrow-2"></span></a>
                         </div>
                     </div>
@@ -91,7 +92,7 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-balance"></span>
                             </div>
-                            <h3><a href="business.php">Business Law</a></h3>
+                            <h3><a href="business.php">Project Finance Law</a></h3>
                             <a href="#" class="arrow"><span class="flaticon-right-arrow-2"></span></a>
                         </div>
                     </div>
@@ -133,9 +134,9 @@
                         <div class="overlay-box">
                             <div class="overlay-inner">
                                 <div class="content">
-                                    <div class="text"><?php echo $name; ?>’s insurance practice is seen as a market
+                                    <div class="text"><?php echo $name; ?>’s real estate practice is seen as a market
                                         leader. We advise clients on the entire gamut.</div>
-                                    <a href="insurance.php" class="read-more">read more</a>
+                                    <a href="wills.php" class="read-more">read more</a>
                                 </div>
                             </div>
                         </div>
@@ -145,7 +146,7 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-home"></span>
                             </div>
-                            <h3><a href="insurance.php">Insurance Law</a></h3>
+                            <h3><a href="wills.php">Real Estate Law</a></h3>
                             <a href="#" class="arrow"><span class="flaticon-right-arrow-2"></span></a>
                         </div>
                     </div>
@@ -160,9 +161,10 @@
                         <div class="overlay-box">
                             <div class="overlay-inner">
                                 <div class="content">
-                                    <div class="text">Consumer protection is a group of laws that are designed to ensure
+                                    <div class="text">International Trade law is a group of laws that are designed to
+                                        ensure
                                         the rights of consumers as well as fair trade.</div>
-                                    <a href="consumer.php" class="read-more">read more</a>
+                                    <a href="trade.php" class="read-more">read more</a>
                                 </div>
                             </div>
                         </div>
@@ -172,7 +174,7 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-edit"></span>
                             </div>
-                            <h3><a href="consumer.php">Consumer Law</a></h3>
+                            <h3><a href="trade.php">International Trade Law</a></h3>
                             <a href="#" class="arrow"><span class="flaticon-right-arrow-2"></span></a>
                         </div>
                     </div>

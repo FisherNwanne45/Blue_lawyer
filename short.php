@@ -1,16 +1,16 @@
-<?php 
+<?php
 
-$name = 'Smith and Smith Legal Attorneys';
+$name = 'Lisa & Henry Partners LLC';
 
-$addr = '100 King St W Suite 5700, Toronto, ON M5X 1C7';
+$addr = '820 Vermont Ave NW, Washington, DC 20420';
 
-$phone = '+14375292086';
+$phone = '+1 (410) 429-0247';
 
-$url = 'https://smithandsmithlegal.org';
+$url = 'https://lisahenrylaw.com';
 
-$email = 'info@smithandsmithlegal.org';
+$email = 'info@lisahenrylaw.com';
 
-?> 
+?>
 
 <!-- 
 

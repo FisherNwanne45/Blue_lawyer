@@ -183,12 +183,12 @@
             <div class="services-block col-lg-3 col-md-4 col-sm-6 col-xs-12">
                 <div class="inner-box">
                     <div class="icon-box">
-                        <span class="icon flaticon-family"></span>
+                        <span class="icon flaticon-bank"></span>
                     </div>
-                    <h3><a href="family.php">Family Law</a></h3>
-                    <div class="text">Family law is an area of the law sed that deals with family matters & family
-                        domestic relations.</div>
-                    <a href="family.php" class="read-more">Read More <span class="fa fa-angle-double-right"></span></a>
+                    <h3><a href="banking.php">Intl. Finance Law</a></h3>
+                    <div class="text">International Banking and Finance Law is an area of the law that issues relating
+                        to Banking & finance disputes resolutions.</div>
+                    <a href="banking.php" class="read-more">Read More <span class="fa fa-angle-double-right"></span></a>
                 </div>
             </div>
 
@@ -198,11 +198,11 @@
                     <div class="icon-box">
                         <span class="icon flaticon-balance"></span>
                     </div>
-                    <h3><a href="business.php">Business Law</a></h3>
-                    <div class="text">One of <?php echo $name; ?>'s key practice areas is corporate and commercial, for
+                    <h3><a href="trade.php">Intl. Trade Law</a></h3>
+                    <div class="text">One of <?php echo $name; ?>'s key practice areas is corporate and commercial
+                        trade, for
                         various sectors.</div>
-                    <a href="business.php" class="read-more">Read More <span
-                            class="fa fa-angle-double-right"></span></a>
+                    <a href="trade.php" class="read-more">Read More <span class="fa fa-angle-double-right"></span></a>
                 </div>
             </div>
 
@@ -267,10 +267,11 @@
                     <div class="icon-box">
                         <span class="icon flaticon-write-letter"></span>
                     </div>
-                    <h3><a href="wills.php">Consumer Law</a></h3>
+                    <h3><a href="business.php">Project Finance Law</a></h3>
                     <div class="text">Consumers can file a case against a seller if they're cheated or exploited by
                         sellers.</div>
-                    <a href="wills.php" class="read-more">Read More <span class="fa fa-angle-double-right"></span></a>
+                    <a href="business.php" class="read-more">Read More <span
+                            class="fa fa-angle-double-right"></span></a>
                 </div>
             </div>
 
@@ -280,10 +281,10 @@
                     <div class="icon-box">
                         <span class="icon flaticon-target"></span>
                     </div>
-                    <h3><a href="criminal.php">Civil Litigation Law</a></h3>
-                    <div class="text"> Civil Claims, Breach of Contract, Misrepresentation, Claim for Damages,
-                        Injunctions.</div>
-                    <a href="criminal.php" class="read-more">Read More <span
+                    <h3><a href="consumer.php">Creditor Debtor Rights </a></h3>
+                    <div class="text"> Bankruptcy and Creditor Debtor Rights / Insolvency and Reorganization Law
+                        .</div>
+                    <a href="consumer.php" class="read-more">Read More <span
                             class="fa fa-angle-double-right"></span></a>
                 </div>
             </div>
@@ -424,8 +425,8 @@
             <!--Image Column-->
             <div class="image-column col-md-6 col-sm-12 col-xs-12">
                 <div class="image">
-                    <img src="images/resource/about2.png" alt="About Us" />
-                    <div class="caption">Alessia Smith</div>
+                    <img src="images/resource/about2.jpg" alt="About Us" />
+                    <div class="caption">Lisa Henry</div>
                 </div>
 
             </div>

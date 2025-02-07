@@ -3,11 +3,11 @@
 <!--Page Title-->
 <section class="page-title" style="background-image:url(images/background/9.jpg)">
     <div class="auto-container">
-        <h1>Drug Control Law</h1>
+        <h1>International Trade Law</h1>
         <ul class="page-breadcrumb">
             <li>You are here:</li>
             <li><a href="index.php"> Home</a></li>
-            <li>Drug Control Law</li>
+            <li>International Trade Law</li>
         </ul>
     </div>
 </section>
@@ -27,17 +27,14 @@
                         <ul class="blog-cat">
                             <li><a href="banking.php"><span class="icon flaticon-bank"></span>
                                     International Banking and Finance Law</a></li>
-                            <li><a href="trade.php"><span class="icon flaticon-balance"></span>
+                            <li class="active"><a href="trade.php"><span class="icon flaticon-balance"></span>
                                     International Trade Law</a></li>
-                            <li><a href="business.php"><span class="icon flaticon-write-letter"></span>
-                                    Project Finance
+                            <li><a href="business.php"><span class="icon flaticon-write-letter"></span> Project Finance
                                     Law</a></li>
                             <li><a href="wills.php"><span class="icon flaticon-home"></span> Real Estate
                                     Law</a></li>
-                            <li><a href="criminal.php"><span class="icon flaticon-jail"></span> Criminal
-                                    Law</a></li>
-                            <li class="active"><a href="drug.php"><span class="icon flaticon-antibiotic"></span> Drug
-                                    Control Law</a>
+                            <li><a href="criminal.php"><span class="icon flaticon-jail"></span> Criminal Law</a></li>
+                            <li><a href="drug.php"><span class="icon flaticon-antibiotic"></span> Drug Control Law</a>
                             </li>
                             <li><a href="consumer.php"><span class="icon flaticon-target"></span> Bankruptcy and
                                     Creditor Debtor Rights /
@@ -67,108 +64,43 @@
                 <div class="practice-single">
                     <div class="inner-box">
                         <div class="image">
-                            <img src="images/resource/service-7.jpg" alt="" />
+                            <img src="images/resource/service-3.jpg" alt="" />
                         </div>
                         <div class="lower-content">
-                            <h2>About <span class="theme_color">Drug Control Law</span></h2>
+                            <h2>About <span class="theme_color">International Trade Law</span></h2>
                             <div class="text">
-                                <p></p><?php echo $name; ?> has considerable experience in advising clients on
-                                anti-corruption lawsabout drug control and on providing assistance with regards to the
-                                operation of foreign anti-graft laws having extra-territorial implications, including
-                                advising and providing assistance on legal issues and corrupt practices investigations
-                                by both internal and/or external agency.
-                                <br><br>
-                                We advise various multi-national corporations on anti-corruption related matters, ethics
-                                policies and good governance including drafting internal ethics policies and codes of
-                                conduct for clients.
-                                <br><br>
-                                We also assist several clients with internal investigations on fraud and
-                                non-compliance.<br><br>
-
-                                From time to time, the lawyers in the firm have assisted and participated in internal
-                                training sessions and workshops organised by its corporate clients on the subject.</p>
-
-                                <!--Two Column--
-                                    <div class="two-column">
-                                        <div class="row clearfix">
-                                            <div class="column col-md-6 col-sm-6 col-xs-12">
-                                            	
-                                                
-                                                <ul class="accordion-box style-two">
-                                                    
-                                                     
-                                                    <li class="accordion block">
-                                                        <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-right"></span></div>Creating a Prenuptial Agreement</div>
-                                                        <div class="acc-content">
-                                                            <div class="content">
-                                                                <div class="text">It is easy to become wrapped up in the excitement of love and a weddiing and to forget about what exactly could be should things go wrong.</div>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                            
-                                                  
-                                                    <li class="accordion block active-block">
-                                                        <div class="acc-btn active"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-right"></span></div>How to Get an Annulment</div>
-                                                        <div class="acc-content current">
-                                                            <div class="content">
-                                                                <div class="text">It is easy to become wrapped up in the excitement of love and a wedding and to forget about what exactly could be should things go wrong.</div>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    
-                                                   
-                                                    <li class="accordion block">
-                                                        <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-right"></span></div>Where is Same-Sex Marriage Legal</div>
-                                                        <div class="acc-content">
-                                                            <div class="content">
-                                                                <div class="text">It is easy to become wrapped up in the excitement of loove and a wedding and to forget about what exactly could be should things go wrong.</div>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    
-                                                    
-                                                    <li class="accordion block">
-                                                        <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-right"></span></div>What Is Family Law Mediation</div>
-                                                        <div class="acc-content">
-                                                            <div class="content">
-                                                                <div class="text">It is easy to become wrapped up in the excitement of love and a wedding and to forget about what exactly could be should things go wrong.</div>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-
-                                                </ul>
-                                                
-                                            </div>
-                                            <div class="column col-md-6 col-sm-6 col-xs-12">
-                                            	<div class="image">
-                                                	<img src="images/resource/service-8.jpg" alt="" />
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--End Two Column 
-                                    <div class="row clearfix">
-                                        <div class="column col-md-6 col-sm-6 col-xs-12">
-                                            <h4>Family Law<span class="theme_color">international</span></h4>
-                                            <ul class="list-style-three">
-                                            	<li>ABA - International Family Law Committee</li>
-                                                <li>EISIL - International Section on Family Law</li>
-                                                <li>Family Law - AIRE Center</li>
-                                                <li>Transnational and Comparative Family Law</li>
-                                            </ul>
-                                        </div>
-                                        <div class="column col-md-6 col-sm-6 col-xs-12">
-                                            <h4>Family Law <span class="theme_color">Organizations</span></h4>
-                                            <ul class="list-style-three">
-                                            	<li>American Academy of Matrimonial Lawyers</li>
-                                                <li>International Academy of Collaborative Professionals</li>
-                                                <li>International Society of Family Law</li>
-                                                <li>Resolution, First for Family Law - UK</li>
-                                            </ul>
-                                        </div>
-                                    </div><!--Team Block-->
+                                <p>International Trade Law governs the rules and regulations of commerce between
+                                    nations. At <?php echo $name; ?>, we understand the complexities of cross-border
+                                    trade and are committed to providing comprehensive legal support to businesses
+                                    navigating international markets.
+                                    <br><br>
+                                    Our legal experts assist clients in drafting and negotiating trade agreements,
+                                    ensuring compliance with customs regulations, and resolving trade disputes. We also
+                                    provide guidance on import and export controls, trade sanctions, and international
+                                    trade financing to help your business succeed globally.
+                                    <br><br>
+                                    Whether you're entering new markets or dealing with regulatory challenges, our team
+                                    ensures that your trade operations remain compliant and competitive.
+                                </p>
+                                <h3>Supporting Your <span class="theme_color">Growth in International Trade</span></h3>
+                                <p>As your business expands its reach across international borders, navigating trade
+                                    regulations becomes essential. At <?php echo $name; ?>, we provide the legal
+                                    expertise necessary to help you seize new trade opportunities while managing legal
+                                    risks.
+                                    <br><br>
+                                    Our services include assisting with trade compliance, negotiating distribution and
+                                    agency agreements, and advising on supply chain contracts. We work closely with
+                                    clients to mitigate risks associated with tariffs, duties, and other trade barriers.
+                                    <br><br>
+                                    With extensive experience in international trade law, we provide tailored solutions
+                                    that empower your business to thrive in the global marketplace. Our commitment is to
+                                    help you navigate every stage of your international trade operations smoothly and
+                                    successfully.
+                                </p>
                             </div>
                         </div>
+
+
                     </div>
                 </div>
 
